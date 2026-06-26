@@ -34,6 +34,6 @@ A Spotify-inspired Power BI dashboard designed to analyze music streaming perfor
 
 ## 👨‍💻 Author
 
-**Sabir Shaikh**
+**Yash Vijay Gondkar**
 
 ⭐ If you like this project, consider giving it a star.
